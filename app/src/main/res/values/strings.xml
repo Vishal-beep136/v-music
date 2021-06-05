@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">V-Music</string>
+
+    <string name="intro_text">Tap To Start!</string>
+    <string name="textview">TextView</string>
+    <string name="todo">todo</string>
+
+
+</resources>
